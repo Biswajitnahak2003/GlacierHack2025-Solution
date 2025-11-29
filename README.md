@@ -21,7 +21,7 @@ Check `requirements.txt` for the libraries I used.
 
 ## 👨‍💻 Author & Team
 **Team:** [WiFightForSleep]
-**Lead Developer:** Biswajit Nahak
+**Author:** Biswajit Nahak
 **Affiliation:** [IIIT Bhubaneswar]
 
 **Connect with me:**
