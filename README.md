@@ -18,3 +18,14 @@ This is the logic I used for the first phase (Binary Segmentation).
 
 ## How to use
 Check `requirements.txt` for the libraries I used.
+
+## 👨‍💻 Author & Team
+**Team:** [WiFightForSleep]
+**Lead Developer:** Biswajit Nahak
+**Affiliation:** [IIIT Bhubaneswar]
+
+**Connect with me:**
+* [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/biswajit-nahak/)
+* [![GitHub](https://img.shields.io/badge/GitHub-View_Profile-black?style=flat&logo=github)](https://github.com/Biswajitnahak2003)
+
+If you have any questions regarding the codebase or the training methodology, please feel free to reach out or open an issue in this repository.
