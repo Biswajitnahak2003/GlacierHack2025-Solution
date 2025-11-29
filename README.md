@@ -1,6 +1,7 @@
 # GlacierHack 2025 - Top 15 Solution
 
 **Team:** [ WiFightForSleep ]
+
 **Competition:** GlacierHack 2025
 
 This repository contains my solution for the GlacierHack 2025 challenge. 
@@ -21,7 +22,9 @@ Check `requirements.txt` for the libraries I used.
 
 ## 👨‍💻 Author & Team
 **Team:** [WiFightForSleep]
+
 **Author:** Biswajit Nahak
+
 **Affiliation:** [IIIT Bhubaneswar]
 
 **Connect with me:**
