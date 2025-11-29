@@ -1,0 +1,9 @@
+torch>=2.0.0
+numpy
+opencv-python
+pillow
+tqdm
+albumentations
+segmentation-models-pytorch
+scikit-learn
+matplotlib
