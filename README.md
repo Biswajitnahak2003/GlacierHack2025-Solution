@@ -1,4 +1,4 @@
-# GlacierHack 2025 - Top 9 Submission
+# GlacierHack 2025 - Top 9 Solution
 
 **Team:** [ WiFightForSleep ]
 **Competition:** GlacierHack 2025

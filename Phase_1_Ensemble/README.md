@@ -1,6 +1,7 @@
 # Phase 1: Binary Segmentation (Archive)
 
 **Status:** Archived
+
 **Task:** Binary Segmentation (Glacier vs. Non-Glacier)
 
 ## What happened to the weights?
