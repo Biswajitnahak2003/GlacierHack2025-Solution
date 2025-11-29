@@ -27,12 +27,12 @@ This directory contains the final codebase used to generate the leaderboard subm
 * **Morphological Cleaning:** Applied `cv2.morphologyEx` (Opening) with a 3x3 kernel to remove noise from the predicted masks.
 
 ## 3. Directory Structure
-```text
+
 Phase_2_Final/
-├── model_training.ipynb           # Complete training pipeline with Augmentation & Loss details
-├── solution.py        # Inference script 
-├── glaciernet_v2.pth  # Trained Model 
-├── loss_plot.png      # Training/Validation MCC Loss Curves
-├── prediction_sample.png # Visual Prediction of the 3 Samples
+├── **[model_training.ipynb](Phase_2_Final/model_training.ipynb/)**           # Complete training pipeline with Augmentation & Loss details
+├── **[solution.py](Phase_2_Final/solution.py/)**        # Inference script 
+├── **[model.pth](Phase_2_Final/model.pth/)**  # Trained Model 
+├── **[loss_plot.png](Phase_2_Final/loss_plot.png/)**      # Training/Validation MCC Loss Curves
+├── **[prediction_sample.png](Phase_2_Final/sample_pred.png/)** # Visual Prediction of the 3 Samples
 └── README.md          # This file
 
