@@ -1,4 +1,4 @@
-# GlacierHack 2025 - Top 9 Solution
+# GlacierHack 2025 - Top 15 Solution
 
 **Team:** [ WiFightForSleep ]
 **Competition:** GlacierHack 2025
@@ -8,7 +8,7 @@ This repository contains my solution for the GlacierHack 2025 challenge.
 ### 📂 Phase_2_Final (The Main Submission)
 This is the code for the **Top 9** solution (Phase 2).
 * **Task:** Multi-class Segmentation.
-* **Model:** GlacierNetV2 (ResNet + Squeeze-and-Excitation).
+* **Model:** model (ResNet + Squeeze-and-Excitation).
 * **Technique:** I used a Tversky+Lovasz Loss combo and added Morphological Post-processing to clean up the masks.
 * **Status:** Complete code and weights are included.
 
