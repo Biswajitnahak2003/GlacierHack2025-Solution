@@ -31,7 +31,7 @@ This directory contains the final codebase used to generate the leaderboard subm
 Phase_2_Final/
 ├── model_training.ipynb           # Complete training pipeline with Augmentation & Loss details
 ├── solution.py        # Inference script 
-├── glaciernet_v2.pth  # Trained Model 
+├── model.pth  # Trained Model 
 ├── loss_plot.png      # Training/Validation MCC Loss Curves
 ├── prediction_sample.png # Visual Prediction of the 3 Samples
 └── README.md          # This file
